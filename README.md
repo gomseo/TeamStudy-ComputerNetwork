@@ -39,8 +39,6 @@
 
 > 하나 2개 이상 해당되면 적극 지원해보세요!
 
-- 전공자와 같은 레벨의 CS지식으로 무장하고 싶은 비전공자
-
 - CS공부를 기초부터 탄탄히 하여 향후 어떤 기술(웹서비스, 클라우드, .. )을 배워도 빠르게 학습할 능력을 기르고 싶으신 분
  
 - 웹 백엔드, 웹 프론트, 데브옵스, 네트워크 엔지니어 등등 IT직군에 지원하는 개발 취준생
@@ -64,13 +62,8 @@
   <tr>
     <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>👑
  손민우</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/
-aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-안성준</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/172958486?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 박다희</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/yeongjinjeong"><img src="https://avatars.githubusercontent.com/u/134537573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-정영진</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Beomsususu"><img src="https://avatars.githubusercontent.com/u/175918186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 박범수</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/gomseo"><img src="https://avatars.githubusercontent.com/u/153079109?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
@@ -79,10 +72,27 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 원석규</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ehanadul"><img src="https://avatars.githubusercontent.com/u/156569727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 이하나</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/eunah320"><img src="https://avatars.githubusercontent.com/u/66278677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+정은아</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ebeleey"><img src="https://avatars.githubusercontent.com/u/175283788?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+이다이</b></sub></a><br /></td>
   </tr>
 </table>
 
 
+## 2-1. 👽 Our Squad (Graduated)
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/mirea70"><img src="https://avatars.githubusercontent.com/u/101246806?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+ 박성재</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/
+aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+안성준</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/yeongjinjeong"><img src="https://avatars.githubusercontent.com/u/134537573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+정영진</b></sub></a><br /></td>
+  </tr>
+</table>
 
 ## 3. ⛳ Curriculum 
 
@@ -97,8 +107,8 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 4  | 네트워크계층4 ~ 링크계층1      | [과제1] : JAVA 소켓 프로그래밍 https://www.youtube.com/watch?v=dX82Wuc18wk | ✅           |
 | Week 5  | 링크계층2 ~ 무선이동네트워크1  | 링크 계층의 심화 학습과 무선 이동 네트워크의 이해       | ✅         |
 | Week 6  | 무선네트워크2 ~ 멀티미디어 네트워크 | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | ✅           |
-| Week 7  | 네트워크 보안1 ~ 네트워크 보안2 |   네트워크 보안 프로토콜과 암호화 기법 개요   |    📅     | 
-| Week 8  | 미야타 히로시 TCP/IP  | 프로토콜 ~P.35 | 📅           |
+| Week 7  | 네트워크 보안1 ~ 네트워크 보안2 |   네트워크 보안 프로토콜과 암호화 기법 개요   |    ✅     | 
+| Week 8  | 미야타 히로시 TCP/IP  | 프로토콜 ~P.35 | ✅         |
 
 ### Level 2 : 24.09.25 ~ 24.12.07  :  역순으로 올라가는 OSI 7Layer + TCP/IP 구조
 
@@ -106,31 +116,33 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
-| Week 9  | 물리계층 ~ P.35 |  | 📅            |
-| Week 10  |  물리계층 ~ P.68 |    | 📅           |
-| Week 11  | 무선 LAN ~ P.119 |   | 📅            |
-| Week 12  | IP ~ P.155 |   | 📅           |
-| Week 13  |  IP 라우팅 ~ P.195  |   | 📅           |
-| Week 14  | 네트워크 계층 ~ P.238  |  | 📅           |
-| Week 15  | UDP/TCP ~ P.279 |   | 📅           |
-| Week 16  | HTTP ~ P.314 |  | 📅            |
-| Week 17  | SSL & TLS ~ P.356 |    | 📅           |
-| Week 18  | 관리 액세스 프로토콜 ~ P.387 |   | 📅            |
-| Week 19  | FTP & TFTP  | ~P.418 (Completed)   | 📅           |
+| Week 9  | 물리계층 ~ P.35 |  | ✅         |
+| Week 10  |  물리계층 ~ P.80 |    | ✅       |
+| Week 11  | 무선 LAN ~ P.129 |   | ✅            |
+| Week 12  | IP ~ P.164 |   |      ✅        |
+| Week 13  |  IP 라우팅 ~ P.216  |   | ✅           |
+| Week 14  | 네트워크 계층 ~ P.250  |  | ✅           |
+| Week 15  | UDP/TCP ~ P.296 |   | ✅           |
+| Week 16  | HTTP ~ P.342 |  | 📅            |
+| Week 17  | SSL & TLS ~  |    | 📅           |
+| Week 18  | 관리 액세스 프로토콜 ~  |   | 📅            |
+| Week 19  | 관리 액세스 프로토콜 ~  |   | 📅            |
+| Week 20  | 관리 액세스 프로토콜 ~  |   | 📅            |
+| Week 21  | 관리 액세스 프로토콜 ~  |   | 📅            |
 
-### Level 3 : 24.12.08 ~ 25.02.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
+### Level 3 : 24.12.01 ~ 25.02.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
-| Week 20  | 클라우드 컴퓨팅 및 AWS 기본 사항 소개 | AWS 계정을 생성, 기본 EC2 인스턴스를 시작 | 📅            |
-| Week 21  | AWS 핵심 서비스 – 컴퓨팅, 스토리지 및 네트워킹 |  EC2에 웹 애플리케이션을 배포, S3 버킷을 생성하고 파일을 업로드  | 📅           |
-| Week 22  | AWS IAM 및 보안 | AWS Identity and Access Management(IAM) 및 기본 보안 | 📅            |
-| Week 23  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
-| Week 24  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
-| Week 25  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
-| Week 26  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
-| Week 27  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
-| Week 28  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
+| Week 22  | 클라우드 컴퓨팅 및 AWS 기본 사항 소개 | AWS 계정을 생성, 기본 EC2 인스턴스를 시작 | 📅            |
+| Week 23  | AWS 핵심 서비스 – 컴퓨팅, 스토리지 및 네트워킹 |  EC2에 웹 애플리케이션을 배포, S3 버킷을 생성하고 파일을 업로드  | 📅           |
+| Week 24  | AWS IAM 및 보안 | AWS Identity and Access Management(IAM) 및 기본 보안 | 📅            |
+| Week 25  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
+| Week 26  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
+| Week 27  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
+| Week 28  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
+| Week 29  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
+| Week 30  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
 
 
 ## 4. Github Collaboration ( 디렉토리 구조, 커밋 규칙 )  
